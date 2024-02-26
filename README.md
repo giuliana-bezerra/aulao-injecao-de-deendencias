@@ -1,6 +1,6 @@
 # Aulão: Injeção de Dependências
 
-Esse projeto foi elaborado [nesse vídeo]() e explora o conceito de injeção de dependências, utilizando Java e Spring.
+Esse projeto foi elaborado [nesse vídeo](https://youtu.be/CSsB53HCC3A?si=tmFfy50iUZECEloZ) e explora o conceito de injeção de dependências, utilizando Java e Spring.
 
 ## Roteiro
 - [ ] [Projeto de migração de usuários](https://github.com/giuliana-bezerra/aulao-injecao-de-dependencias/releases/tag/v1.0)
@@ -9,4 +9,4 @@ Esse projeto foi elaborado [nesse vídeo]() e explora o conceito de injeção de
 - [ ] [Adiciona o Spring](https://github.com/giuliana-bezerra/aulao-injecao-de-dependencias/releases/tag/v4.0)
 
 ## Referências
-- [Vídeo do Youtube]()
+- [Vídeo do Youtube](https://youtu.be/CSsB53HCC3A?si=tmFfy50iUZECEloZ)
